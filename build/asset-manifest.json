@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/luciano24g/BUKI-HAIR./static/css/main.e3495086.css",
+    "main.js": "/luciano24g/BUKI-HAIR./static/js/main.dc483c14.js",
+    "static/js/787.53c07e02.chunk.js": "/luciano24g/BUKI-HAIR./static/js/787.53c07e02.chunk.js",
+    "index.html": "/luciano24g/BUKI-HAIR./index.html",
+    "main.e3495086.css.map": "/luciano24g/BUKI-HAIR./static/css/main.e3495086.css.map",
+    "main.dc483c14.js.map": "/luciano24g/BUKI-HAIR./static/js/main.dc483c14.js.map",
+    "787.53c07e02.chunk.js.map": "/luciano24g/BUKI-HAIR./static/js/787.53c07e02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3495086.css",
+    "static/js/main.dc483c14.js"
+  ]
+}
